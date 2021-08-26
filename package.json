@@ -1,0 +1,12 @@
+{
+  "name": "snow_animation",
+  "author": "fraol0912 <fraol0912@gmail.com>",
+  "license": "MIT",
+  "private": "true",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "scripts": {
+    "live": "live-server ./dist"
+  }
+}
